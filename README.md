@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaki</h1>
 <h3 align="center">A passionate AI Programmer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmzakif&label=Profile%20views&color=0e75b6&style=flat" alt="ahmzakif" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on **Semantic Segmentation** Project<br>👨‍🎓 Studied Computer Science at Gadjah Mada University, Indonesia<br>🔍 How to reach me ahmzakif@gmail.com<br>🌱 I’m currently learning Image Processing using Deep Learning<br>💬 Ask me about Python, TensorFlow, OpenCV, YOLO, Arduino<br>⚡ Fun fact: Coding can “power up” your brain<br><br>
